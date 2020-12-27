@@ -1,12 +1,16 @@
+# Welcome
+
+<img align="right" alt="GIF" src="" width="500" height="320" />
+
 ### Stats
 
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Anna's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Robbiexd&show_icons=true&hide_border=true" />
+  <img align="left" alt="Robert's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Robbiexd&show_icons=true&hide_border=true" />
 
 </details>
-
+<br />
 <details>
   <summary>:zap: Most Used Languages</summary>
 
