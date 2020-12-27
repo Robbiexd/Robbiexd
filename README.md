@@ -4,6 +4,7 @@
 
 ## About
 - poor pslib student
+- hates windows
 
 <br/>
 <br/>
@@ -18,13 +19,9 @@
 
 ### Stats
 
-
-<summary>GitHub Stats</summary>
+<summary>GitHub Stats & Most Used Languages</summary>
 
   <img align="right" alt="Robert's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Robbiexd&show_icons=true&hide_border=true" />
-
-<summary>Most Used Languages</summary>
-
   <img align="left" alt="Robert's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Robbiexd" />
 
 
