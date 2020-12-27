@@ -1,4 +1,20 @@
-### Hi there 👋
+### Stats
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="Anna's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Robbiexd&show_icons=true&hide_border=true" />
+
+</details>
+
+<details>
+  <summary>:zap: Most Used Languages</summary>
+
+<img align="left" alt="Robert's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Robbiexd" />
+
+</details>
+
+
 
 <!--
 **Robbiexd/Robbiexd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
