@@ -5,17 +5,22 @@
 ## About
 - poor pslib student
 
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 ### Stats
 
 
-<summary>:zap: GitHub Stats</summary>
+<summary>GitHub Stats</summary>
 
   <img align="left" alt="Robert's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Robbiexd&show_icons=true&hide_border=true" />
 
-<br />
-  <summary>:zap: Most Used Languages</summary>
+<summary>Most Used Languages</summary>
 
-<img align="left" alt="Robert's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Robbiexd" />
+  <img align="left" alt="Robert's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Robbiexd" />
 
 
 
