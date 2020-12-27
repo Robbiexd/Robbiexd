@@ -2,20 +2,20 @@
 
 <img align="right" alt="GIF" src="https://github.com/Robbiexd/Robbiexd/blob/main/images/pain.jpeg" width="500" height="320" />
 
-About
+## About
 - poor pslib student
 
 ### Stats
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
+ <!-- <summary>:zap: GitHub Stats</summary> -->
 
   <img align="left" alt="Robert's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Robbiexd&show_icons=true&hide_border=true" />
 
 </details>
 <br />
 <details>
-  <summary>:zap: Most Used Languages</summary>
+  <!-- <summary>:zap: Most Used Languages</summary> -->
 
 <img align="left" alt="Robert's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Robbiexd" />
 
