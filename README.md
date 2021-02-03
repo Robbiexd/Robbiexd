@@ -23,10 +23,11 @@
   <img align="right" alt="Robert's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Robbiexd" />
 
 <br/>
-<br/>
-<span>
+
+---
+
   #### everyday I see more and more reasons why windows 10 is a terrible product
-<span/>
+
 
 
 <!--
