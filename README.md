@@ -3,7 +3,7 @@
 <img align="right" alt="GIF" src="https://github.com/Robbiexd/Robbiexd/blob/main/images/pain.jpeg" width="500" height="320" />
 
 ### About
-- poor pslib student
+- poor student
 
 <br/>
 <br/>
